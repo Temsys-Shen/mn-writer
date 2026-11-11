@@ -43,6 +43,7 @@ const NATIVE_GLOBALS = [
   "__MN_WRITER_LAYOUT__",
   "__MN_WRITER_CITEKEY__",
   "__MN_WRITER_DRAG_GUARD__",
+  "__MN_WRITER_MESSAGES__",
   "createPanelAddon",
   "console",
 ];
